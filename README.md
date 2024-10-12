@@ -1,0 +1,2 @@
+# MC-SERVER
+server
